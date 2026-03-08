@@ -1,0 +1,51 @@
+{
+  "manifest_version": 2,
+  "name": "Corvus // Terminal Theme",
+  "version": "2.0.0",
+  "description": "Dark terminal theme. Black frame, green tabs, purple incognito. By Dev_F.R.Arnav.",
+
+  "theme": {
+    "images": {
+      "theme_frame":                    "images/theme_frame.png",
+      "theme_frame_inactive":           "images/theme_frame_inactive.png",
+      "theme_frame_incognito":          "images/theme_frame_incognito.png",
+      "theme_frame_incognito_inactive": "images/theme_frame_incognito_inactive.png",
+      "theme_toolbar":                  "images/theme_toolbar.png",
+      "theme_tab_background_v":         "images/theme_tab_background_v.png",
+      "theme_ntp_background":           "images/theme_ntp_background.png"
+    },
+
+    "colors": {
+      "frame":                [10,  12,  15],
+      "frame_inactive":       [6,   8,   10],
+      "background_tab":       [8,   10,  13],
+      "toolbar":              [13,  17,  23],
+      "tab_text":             [0,   255, 136],
+      "tab_background_text":  [88,  96,  105],
+      "bookmark_text":        [201, 209, 217],
+      "ntp_background":       [10,  12,  15],
+      "ntp_text":             [201, 209, 217],
+      "ntp_link":             [0,   255, 136],
+      "ntp_header":           [13,  17,  23]
+    },
+
+    "tints": {
+      "buttons":          [0.42, 0.50, 0.75],
+      "frame":            [-1,  -1,  -1],
+      "frame_inactive":   [-1,  -1,   0.40],
+      "background_tab":   [-1,  -1,   0.20]
+    },
+
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat":    "no-repeat",
+      "ntp_logo_alternate":       1
+    }
+  },
+
+  "icons": {
+    "16":  "icons/icon16.png",
+    "48":  "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
