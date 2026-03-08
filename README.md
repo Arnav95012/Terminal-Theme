@@ -102,7 +102,7 @@ Then go to `chrome://extensions/` → find Corvus Theme → **Remove**
 ---
 ## 🖼️ Preview
 
-![Corvus Terminal New Tab](preview.png)
+![Corvus Terminal New Tab](preview.JPG)
 ---
 
 ## 🗂️ File Structure
