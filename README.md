@@ -100,30 +100,9 @@ You'll see **"Corvus // Terminal Theme"** with a Reset button.
 Then go to `chrome://extensions/` → find Corvus Theme → **Remove**
 
 ---
-
 ## 🖼️ Preview
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ ⬡ CORVUS  ◈ New Tab ✕  ◈ github.com  ✕  ＋   👁 VOID  _ □ ✕│
-├─────────────────────────────────────────────────────────────┤
-│ ◀ ▶ ↻ ⌂  [ corvus://newtab                            ☆ ⏱ ]│
-├──────────────┬──────────────────────────┬───────────────────┤
-│ // DEV_LINKS │                          │ // AI_LINKS       │
-│              │  $ whoami → authenticated│                   │
-│ _code        │  Hey, Dev_F.R.Arnav_     │ _assistants       │
-│  ◈ GitHub    │                          │  🤖 Claude  HOT   │
-│  ◈ Stack...  │     00 : 00 : 00         │  ◈ ChatGPT GPT-4  │
-│  ◈ CodePen   │   SUN  08 MAR 2026       │  💎 Gemini  NEW   │
-│  ◈ Replit    │                          │  🪟 Copilot       │
-│              │  $ [ search here...   ]  │                   │
-│ _google      │  Google DDG GitHub YT npm│ _studios          │
-│  ◈ Gmail     │                          │  🔬 AI Studio FREE│
-│  ◈ Drive     │  ✓ SYS_NOMINAL | BAT 87% │  🧠 Anthropic     │
-│  ◈ Calendar  │                          │  🤗 HuggingFace   │
-└──────────────┴──────────────────────────┴───────────────────┘
-```
-
+![Corvus Terminal New Tab](preview.png)
 ---
 
 ## 🗂️ File Structure
