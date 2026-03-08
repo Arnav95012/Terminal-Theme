@@ -82,7 +82,7 @@ Toggle **Developer Mode** ON (top-right corner).
 
 ### Step 3 — Install the Browser Theme *(optional)*
 
-> ⚠️ **Important:** The theme uses Manifest V2 — this is correct and required. Chrome themes have never supported MV3.
+> ⚠️ **Important:** The theme uses Manifest V2.
 
 1. Go to `chrome://extensions/`
 2. Click **Load unpacked**
@@ -222,4 +222,4 @@ MIT — use it, fork it, make it yours.
 
 ---
 
-*Part of the **Corvus Browser** project — a full Electron-based terminal browser.*
+*Part of the **Corvus Browser** project — a full Rust-based terminal browser.*
