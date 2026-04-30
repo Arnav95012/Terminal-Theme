@@ -201,4 +201,3 @@ MIT — use it, fork it, make it yours.
 
 ---
 
-*Part of the **Corvus Browser** project — a full Rust-based terminal browser.*
